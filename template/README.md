@@ -1,0 +1,21 @@
+## 组件中文名称
+> 简单描述
+> 使用场景
+> 维护人：xxx(邮箱前缀)
+
+### git地址
+* [defed-vue-xxx](xxx)
+
+### 安装
+
+`npm install defed-vue-components`
+
+### 使用DEMO
+* ES6方式提供
+
+### API
+* 属性说明
+
+### 版本升级
+#### 1.0.0
+* 基本功能实现
