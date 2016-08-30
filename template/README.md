@@ -8,7 +8,7 @@
 
 ### 安装
 
-`npm install defed-vue-components`
+`npm install defed-vue-xxx --save`
 
 ### 使用DEMO
 * ES6方式提供
