@@ -1,11 +1,11 @@
 {
-  "name": "defed-vue-xxx",
-  "text": "组件的中文名称",
+  "name": "{{ name }}",
+  "text": "{{ text }}",
   "version": "0.0.1",
-  "description": "组件描述",
-  "author": "你的邮箱",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
   "private": false,
-  "demoUrl": "demo地址",
+  "demoUrl": "{{ demoUrl }}",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "gulp complie",
