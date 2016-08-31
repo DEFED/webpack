@@ -9,8 +9,8 @@ execSync('rm -rf lib')
 
 gulp.task('compile', function () {
     const tsCss = gulp.src('src/components/**/*.less')
-            .pipe(less())
-            .pipe(gulp.dest('./lib/components'))
+        .pipe(less())
+        .pipe(gulp.dest('./lib/components'))
     const tsVue = gulp.src('src/components/**/*.vue')
         .pipe(vueify())
         .pipe(gulp.dest('./lib/components'))
