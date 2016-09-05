@@ -1,5 +1,5 @@
 <template>
-    <div class="hello">
+    <div class="dev-hello">
         <h1 v-text="msg"></h1>
     </div>
 </template>
