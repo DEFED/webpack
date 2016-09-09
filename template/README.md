@@ -1,7 +1,7 @@
-## 组件中文名称
-> 简单描述
+## {{ text }}
+> {{ description }}
 > 使用场景
-> 维护人：xxx(邮箱前缀)
+> 维护人：{{ author }}
 
 ### git地址
 * [defed-vue-xxx](xxx)
